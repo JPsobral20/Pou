@@ -23,7 +23,3 @@ This project explores the implementation of an augmented reality experience base
 2. Open Unity Hub.
 3. Select **Add Project** and choose the cloned project folder.
 4. Open the project using a compatible Unity version.
-
-## Authors
-
-See the original commit history for project contributions.
