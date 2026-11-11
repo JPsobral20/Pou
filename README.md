@@ -60,12 +60,7 @@ The game features several interactive mechanics, allowing players to take care o
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/JPsobral20/Pou.git
-   ```
-
+1. Clone the repository.
 2. Open Unity Hub.
 3. Select **Add Project** and choose the cloned project directory.
 4. Open the project using Unity 6.0.38f1.
